@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Sunset Overdrive",
+        "description": "A beautiful depiction of a sunset over the ocean.",
+        "dimension": "24x36 inches",
+        "year": "2021",
+        "price": "$1200",
+        "image": "sunset_overdrive.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Mountain Majesty",
+        "description": "A stunning view of a mountain range.",
+        "dimension": "30x40 inches",
+        "year": "2019",
+        "price": "$1500",
+        "image": "mountain_majesty.jpg"
+    }
+]
