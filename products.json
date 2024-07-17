@@ -6,6 +6,7 @@
         "dimension": "90 x 65 cm",
         "year": "2024",
         "price": "250.000 FCFA",
+        "author": "Phillipe HACHEME",
         "image": "images/1.jpeg"
     },
     {
@@ -15,6 +16,7 @@
         "dimension": "100 x 65 cm",
         "year": "2024",
         "price": "250.000 FCFA",
+        "author": "Phillipe HACHEME",
         "image": "images/2.jpeg"
     },
     {
@@ -24,6 +26,7 @@
         "dimension": "90 x 65 cm",
         "year": "2024",
         "price": "250.000 FCFA",
+        "author": "Phillipe HACHEME",
         "image": "images/3.jpeg"
     }
 ]
