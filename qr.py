@@ -1,3 +1,4 @@
+import json
 import qrcode
 from urllib.parse import urlencode
 
@@ -23,26 +24,11 @@ def generate_qr_code(url, product, output_file):
 # URL of the generic product template
 base_url = "https://orizontech.github.io/interluxe-qr/product.html"
 
-# Example product details
-products = [
-    {
-        "title": "Sunset Overdrive",
-        "description": "A beautiful depiction of a sunset over the ocean.",
-        "dimension": "24x36 inches",
-        "year": "2021",
-        "price": "$1200",
-        "image": "sunset_overdrive.jpg"
-    },
-    {
-        "title": "Mountain Majesty",
-        "description": "A stunning view of a mountain range.",
-        "dimension": "30x40 inches",
-        "year": "2019",
-        "price": "$1500",
-        "image": "mountain_majesty.jpg"
-    }
-]
+# Load product data from JSON file
+with open('products.json') as json_file:
+    products = json.load(json_file)
 
+# Generate QR codes for each product
 for product in products:
     file_name = f"{product['title'].replace(' ', '_').lower()}_qr.png"
     generate_qr_code(base_url, product, file_name)

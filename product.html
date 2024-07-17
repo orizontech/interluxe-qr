@@ -4,6 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Product Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff;
+            color: #795548;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.2em;
+            margin: 5px 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            font-size: 0.9em;
+        }
+        a {
+            color: #795548;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
     <script>
         function getQueryParams() {
             const params = new URLSearchParams(window.location.search);
@@ -36,6 +70,10 @@
     <p id="dimension">Dimensions</p>
     <p id="year">Year of Creation</p>
     <p id="price">Price</p>
-    <img id="image" src="default.jpg" alt="Product Image" style="width: 300px; height: auto;">
+    <img id="image" src="default.jpg" alt="Product Image">
+
+    <footer>
+        <p>&copy; 2024 <a href="https://www.orizontechlab.com/" target="_blank">Powered by Orizon Tech Lab</a></p>
+    </footer>
 </body>
 </html>
