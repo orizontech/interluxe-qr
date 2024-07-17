@@ -28,5 +28,155 @@
         "price": "250.000 FCFA",
         "author": "Phillipe HACHEME",
         "image": "images/3.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "Dieux de foudre” N° 04 : (Xêviosso)",
+        "description": "Technique mixte sur papier",
+        "dimension": "90 x 65 cm",
+        "year": "2024",
+        "price": "250.000 FCFA",
+        "author": "Phillipe HACHEME",
+        "image": "images/4.jpeg"
+    },
+    {
+        "id": 5,
+        "title": "Dieux de foudre” N° 05 : (Seth)",
+        "description": "Dessin sur papier",
+        "dimension": "100 x 65 cm",
+        "year": "2024",
+        "price": "250.000 FCFA",
+        "author": "Phillipe HACHEME",
+        "image": "images/5.jpeg"
+    },
+    {
+        "id": 6,
+        "title": "Dieux de foudre” N° 06 : (Seth)",
+        "description": "Dessin sur papier",
+        "dimension": "100 x 65 cm",
+        "year": "2024",
+        "price": "250.000 FCFA",
+        "author": "Phillipe HACHEME",
+        "image": "images/6.jpeg"
+    },
+    {
+        "id": 7,
+        "title": "Dieux de foudre” N° 07 : (Xêviosso)",
+        "description": "Technique mixte sur papier",
+        "dimension": "90 x 65 cm",
+        "year": "2024",
+        "price": "250.000 FCFA",
+        "author": "Phillipe HACHEME",
+        "image": "images/7.jpeg"
+    },
+    {
+        "id": 8,
+        "title": "Dieux de foudre” N° 08 : (Raijin)",
+        "description": "Dessin sur papier",
+        "dimension": "30 x 20 cm",
+        "year": "2024",
+        "price": "80.000 FCFA",
+        "author": "Phillipe HACHEME",
+        "image": "images/8.jpeg"
+    },
+    {
+        "id": 9,
+        "title": "Dieux de foudre” N° 09 : (Indra)",
+        "description": "Dessin sur papier",
+        "dimension": "30 x 20 cm",
+        "year": "2024",
+        "price": "80.000 FCFA",
+        "author": "Phillipe HACHEME",
+        "image": "images/9.jpeg"
+    },
+    {
+        "id": 10,
+        "title": "Dieux de foudre” N° 10 : (Zeus)",
+        "description": "Dessin sur papier",
+        "dimension": "30 x 20 cm",
+        "year": "2024",
+        "price": "80.000 FCFA",
+        "author": "Phillipe HACHEME",
+        "image": "images/10.jpeg"
+    },
+    {
+        "id": 11,
+        "title": "Dieux de foudre” N° 11 : (Susanoo)",
+        "description": "Dessin sur papier",
+        "dimension": "30 x 20 cm",
+        "year": "2024",
+        "price": "80.000 FCFA",
+        "author": "Phillipe HACHEME",
+        "image": "images/11.jpeg"
+    },
+    {
+        "id": 12,
+        "title": "Série Masques Guèlèdè",
+        "description": "Acrylique sur toile",
+        "dimension": "28 x 28 cm",
+        "year": "2023",
+        "price": "80.000 FCFA",
+        "author": "Emérick",
+        "image": "images/12.jpeg"
+    },
+    {
+        "id": 13,
+        "title": "Série Masques Guèlèdè",
+        "description": "Acrylique sur toile",
+        "dimension": "28 x 28 cm",
+        "year": "2023",
+        "price": "80.000 FCFA",
+        "author": "Emérick",
+        "image": "images/13.jpeg"
+    },
+    {
+        "id": 14,
+        "title": "Série Masques Guèlèdè",
+        "description": "Acrylique sur toile",
+        "dimension": "28 x 28 cm",
+        "year": "2023",
+        "price": "80.000 FCFA",
+        "author": "Emérick",
+        "image": "images/14.jpeg"
+    },
+    {
+        "id": 15,
+        "title": "Série Masques Guèlèdè",
+        "description": "Acrylique sur toile",
+        "dimension": "28 x 28 cm",
+        "year": "2023",
+        "price": "80.000 FCFA",
+        "author": "Emérick",
+        "image": "images/15.jpeg"
+    },
+    {
+        "id": 16,
+        "title": "Série Masques Guèlèdè",
+        "description": "Acrylique sur toile",
+        "dimension": "28 x 28 cm",
+        "year": "2023",
+        "price": "80.000 FCFA",
+        "author": "Emérick",
+        "image": "images/16.jpeg"
+    },
+    {
+       "id": 17,
+        "title": "Xakpta xwé",
+        "description": "Acrylique sur toile",
+        "dimension": "100 x 80 cm",
+        "year": "2023",
+        "price": "550.000 FCFA",
+        "author": "Emérick",
+        "image": "images/17.jpeg" 
+    },
+    {
+        "id": 18,
+        "title": "Vodoun Vi",
+        "description": "Acrylique sur toile",
+        "dimension": "80 x 100 cm",
+        "year": "2023",
+        "price": "550.000 FCFA",
+        "author": "Emérick",
+        "image": "images/18.jpeg"
     }
 ]
