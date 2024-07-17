@@ -47,6 +47,7 @@
                 dimension: params.get('dimension') || 'No dimension',
                 year: params.get('year') || 'No year',
                 price: params.get('price') || 'No price',
+                author: params.get('author') || 'No author',
                 image: params.get('image') || 'default.jpg'
             };
         }
@@ -58,6 +59,7 @@
             document.getElementById('dimension').textContent = product.dimension;
             document.getElementById('year').textContent = product.year;
             document.getElementById('price').textContent = product.price;
+            document.getElementById('author').textContent = product.author;
             document.getElementById('image').src = product.image;
         }
 
@@ -70,6 +72,7 @@
     <p id="dimension">Dimensions</p>
     <p id="year">Year of Creation</p>
     <p id="price">Price</p>
+    <p id="author">Author</p>
     <img id="image" src="default.jpg" alt="Product Image">
 
     <footer>
