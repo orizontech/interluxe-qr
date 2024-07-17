@@ -1,20 +1,29 @@
 [
     {
         "id": 1,
-        "title": "Sunset Overdrive",
-        "description": "A beautiful depiction of a sunset over the ocean.",
-        "dimension": "24x36 inches",
-        "year": "2021",
-        "price": "$1200",
-        "image": "sunset_overdrive.jpg"
+        "title": "Dieux de foudre” N° 01 : (Ukko)",
+        "description": "Technique mixte sur papier",
+        "dimension": "90 x 65 cm",
+        "year": "2024",
+        "price": "250.000 FCFA",
+        "image": "images/1.jpeg"
     },
     {
         "id": 2,
-        "title": "Mountain Majesty",
-        "description": "A stunning view of a mountain range.",
-        "dimension": "30x40 inches",
-        "year": "2019",
-        "price": "$1500",
-        "image": "mountain_majesty.jpg"
+        "title": "Dieux de foudre” N° 02 : (Thor)",
+        "description": "Technique mixte sur papier",
+        "dimension": "100 x 65 cm",
+        "year": "2024",
+        "price": "250.000 FCFA",
+        "image": "images/2.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Dieux de foudre” N° 03 : (Zeus)",
+        "description": "Technique mixte sur papier",
+        "dimension": "90 x 65 cm",
+        "year": "2024",
+        "price": "250.000 FCFA",
+        "image": "images/3.jpeg"
     }
 ]
